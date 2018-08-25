@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 fanlf create a github acount!
 dev git merge --no-ff -m 'merge with no -ff'
+def test stash.
