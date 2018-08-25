@@ -6,3 +6,6 @@ Creating a new branch 'featurel'.
 fanlf create a github acount!
 dev git merge --no-ff -m 'merge with no -ff'.
 issue-101 test bug.
+dev git merge --no-ff -m 'merge with no -ff'
+def test stash.
+
